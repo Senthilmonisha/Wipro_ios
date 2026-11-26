@@ -1,0 +1,11 @@
+let a = 10
+let b = 25
+let c = 15
+
+if a > b && a > c {
+    print("A is largest")
+} else if b > a && b > c {
+    print("B is largest")
+} else {
+    print("C is largest")
+}
